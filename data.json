@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "age": 21
+    },
+    {
+      "name": "ajinkya",
+      "id": 2
+    },
+    {
+      "name": "vijay",
+      "age": 50,
+      "id": 3
+    }
+  ]
+}
